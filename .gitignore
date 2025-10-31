@@ -209,3 +209,17 @@ __marimo__/
 # eigene Daten / Kaggle-Datensatz
 dataset/
 PlantVillage/
+
+*.keras
+
+
+# ---------------------------------
+# Ignore datasets and image files
+# ---------------------------------
+dataset/
+PlantVillage/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
