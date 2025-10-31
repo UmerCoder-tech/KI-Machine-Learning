@@ -75,8 +75,8 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+
+
 
 # IPython
 profile_default/
@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# eigene Daten / Kaggle-Datensatz
+dataset/
+PlantVillage/
