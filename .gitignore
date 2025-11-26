@@ -209,6 +209,7 @@ __marimo__/
 # eigene Daten / Kaggle-Datensatz
 dataset/
 PlantVillage/
+Tomato-Village/
 
 *.keras
 
